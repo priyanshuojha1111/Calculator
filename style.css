@@ -31,6 +31,9 @@
     cursor: pointer;
     margin: 10px;
 }
+#display-input input{
+    width: 385px;
+}
 form.Display{
     display: flex;
     justify-content: flex-end;
@@ -41,9 +44,10 @@ form.Display input{
     flex: 1;
     font-size: 45px;
     box-shadow: none;
+    width: 100px;
 }
 form input.equal{
-    width: 145px;
+    width: 200px;
 }
 form input.operator{
     color: rgb(58, 159, 151);
