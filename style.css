@@ -33,6 +33,7 @@
 }
 #display-input input{
     width: 385px;
+    font-size: 45px;
 }
 form.Display{
     display: flex;
